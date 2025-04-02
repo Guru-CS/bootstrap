@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+}
+.box{
+    flex:1;
+    text-align: center;
+    height: auto;
+    margin: 10px;
+   background-color: aliceblue;
+}
+.big{
+    text-align: center;
+}
